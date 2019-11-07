@@ -1,0 +1,2 @@
+# testclipboard
+test didchangeapplifecyclestate
